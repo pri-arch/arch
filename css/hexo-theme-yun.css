@@ -1368,7 +1368,7 @@ td {
   visibility: hidden;
 }
 .site-logo {
-  padding-top: 1rem;
+  padding-top: 0.3rem;
   width: 100%;
 }
 .site-logo .img {
@@ -1376,7 +1376,7 @@ td {
   width: 70%;
 }
 .site-menu {
-  padding-top: 1rem;
+  padding-top: 1.6rem;
   font-size: 14px;
   font-weight: 520;
   color: #000;
